@@ -1,5 +1,5 @@
 
-<h1>Hi There, I'm Hidayat Ariya <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There. <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Machine Learning Engineer** who just gradudated from [University of Oxford](https://www.ox.ac.uk/). My day to day work revolves around building Machine Learning models to navigate the blockchain. I'm especially interested in the Solana network and Raydium Protocol. I'm open to collaborate on interesting projects.
 
